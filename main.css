@@ -1,0 +1,104 @@
+body {
+  height: 2600px;
+}
+  #header {
+  height: 95px;
+  background-color: #0278fe
+}
+#HeaderMenu {
+  font-weight: bold;
+  display: block;
+  vertical-align: middle;
+  text-align: center;
+  line-height: 0px;
+}
+#firstmenu {
+
+}
+#secondmenu {
+  padding-left: 350px;
+}
+#Welcome{
+  text-align:center;
+  font-family: Edwardian Script ITC;
+}
+#Logo {
+  text-align: center; 
+}
+
+#First {
+  background-color: #ffffff;
+  height: 980px;
+}
+#Subheader {
+  font-family: Lato;
+  font-size: 36 px; 
+  color: #fe6845;
+}
+
+#Subheads {
+  list-style-type: none;
+  text-align:center;
+  padding-right: 40px;
+  font-size: 36px;
+}
+li {
+  display: inline-block;
+  padding: 50px;
+}
+#HeaderMenu {
+  color: white; 
+  font-size: 35px;
+  font-family: Lato; 
+}
+#headers {
+  font-family: Lato;
+  font-size: 48px;
+  text-align: center;
+  padding-top: 60px;
+}
+#rules {
+  font-family: Source Sans Pro;
+  font-size: 29px;
+}
+#second {
+  height: 860px;
+}
+#signupbutton {
+  height: 81px;
+  width: 374px;
+  background-color: #0278fe;
+  text-align: center;
+  font-family: Lato;
+  Font-weight: bold;
+  color: white;
+  font-size: 46px;
+  
+}
+#buttondiv {
+  text-align:center;
+}
+
+#connectsubheads {
+  text-align: center;
+  font-family: Lato;
+  font-weight: bold;
+  font-size: 36px;
+}
+#support {
+  padding-right:550px;
+  
+}
+#footer {
+  height: 335px;
+  width: 100%;
+  background-color: #363636;
+}
+#footermenu {
+  text-align: right;
+  font-family: Lato;
+  font-weight: bold;
+  font-size: 30px;
+  color: #fe6845;
+  padding-right: 250px;
+}
